@@ -16,7 +16,7 @@ on:
 
 jobs:
   ci_part: 
-    runs-on: ubuntu_latest
+    runs-on: ubuntu-latest
     
     steps:  
     - name : Git clone our repo
