@@ -12,7 +12,7 @@ def helppage():
     return render_template("help.html")
 
 @application.route("/cv")
-def helppage():
+def cv():
     return render_template("cv.html")
 
 @application.route("/hello")
