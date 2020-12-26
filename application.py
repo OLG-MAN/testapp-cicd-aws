@@ -11,6 +11,10 @@ def root():
 def helppage():
     return render_template("help.html")
 
+@application.route("/cv")
+def helppage():
+    return render_template("cv.html")
+
 @application.route("/hello")
 def index():
     return "Hello World from Flask Hello Page.<b> v1.0"
