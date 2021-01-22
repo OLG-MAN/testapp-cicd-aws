@@ -5,5 +5,5 @@
 <p>DevOps info</p>
 Status of Last Deployment:<br>
 <img src="https://github.com/OLG-MAN/testapp-cicd-aws/workflows/CICD-TO-AWS/badge.svg?branch=main"><br>
-<p>AWS Services Progress Page http://oleg-mandrychenko.pp.ua/</p>
-<p>CV Page                    http://oleg-mandrychenko.pp.ua/cv</p>
+<p>AWS Services Progress Page  http://oleg-mandrychenko.pp.ua/</p>
+<p>CV Page  http://oleg-mandrychenko.pp.ua/cv</p>
